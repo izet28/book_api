@@ -1,0 +1,19 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go vendor
+/vendor/
+
+# OS generated files
+.DS_Store
+
+# Log files
+*.log
+
+# Database credentials
+config.json
+
